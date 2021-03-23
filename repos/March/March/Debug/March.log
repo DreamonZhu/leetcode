@@ -1,0 +1,3 @@
+﻿  March.cpp
+C:\Users\dreamon\source\repos\March\March\Solution706.h(18): warning C4091: “static ”: 没有声明变量时忽略“Solution706::Node”的左侧
+  March.vcxproj -> C:\Users\dreamon\source\repos\March\Debug\March.exe

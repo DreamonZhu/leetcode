@@ -1,0 +1,300 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="helloworld.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Solution20.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Solution703.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="solution239.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="monotonicQueue.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Solution242.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Solution15.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Solution1046.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Solution435.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Solution605.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Solution239_1.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Solution86.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Solution509.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Solution830.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Solution399.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Solution547.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Solution547_BFS.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Solution547_UnionFind.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Solution189.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Solution123.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Solution228.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Solution1202.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Solution1203.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Solution684.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Solution1018.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Solution947.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Solution803.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Solution721.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Solution1489.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Solution989.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Solution1319.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Solution5662.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Solution5663.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Solution1579.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Solution1631.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Solution778.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Solution839.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Solution992.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Solution992_double_pionters.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Solution765.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Solution566.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Solution995.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Solution1004.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Solution1052.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Solution395.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Solution338.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Solution354.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Solution20.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Solution703.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="solution239.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="monotonicQueue.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Solution242.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Solution15.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Solution1046.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Solution435.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Solution605.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Solution239_1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Solution86.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Solution509.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Solution830.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Solution399.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Solution547.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Solution547_BFS.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Solution547_UnionFind.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Solution189.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Solution123.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Solution228.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Solution1202.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Solution1203.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Solution684.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Solution1018.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Solution947.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Solution803.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Solution721.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Solution1489.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Solution989.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Solution1319.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Solution5662.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Solution5663.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Solution1579.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Solution1631.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Solution778.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Solution839.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Solution992.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Solution992_double_pionters.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Solution765.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Solution566.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Solution995.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Solution1004.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Solution1052.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Solution395.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Solution338.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Solution354.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
